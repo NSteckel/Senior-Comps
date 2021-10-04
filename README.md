@@ -10,5 +10,5 @@ You will also need to do the same thing with any image or audio files you want t
 This project also incorporates other websites outside of the game that must be visited as part of the ARG puzzles. These mini-sites will have their own repositories in order to keep the project as organized as possible.
 
 Here are the links to the other repositories:
-https://github.com/NSteckel/Nondosoft
+https://github.com/NSteckel/Nondosoft (hosted live at: https://nsteckel.github.io/Nondosoft/)
 (there will be one other here, not created yet)
