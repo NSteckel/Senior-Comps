@@ -10,3 +10,5 @@ This project also incorporates other websites outside of the game that must be v
 Here are the links to the other repositories:
 https://github.com/NSteckel/Nondosoft (hosted live at: https://nsteckel.github.io/Nondosoft/)
 (there will be one other here, not created yet)
+
+The complete game can be downloaded at https://esimmons55.itch.io/themissingdoll
