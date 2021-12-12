@@ -13,4 +13,4 @@ https://github.com/NSteckel/Nondosoft (hosted live at: https://nsteckel.github.i
 This is the link to an instagram account I created for one of the ARG puzzles:
 https://www.instagram.com/emmy_again_81/
 
-The complete game can be downloaded at https://esimmons55.itch.io/themissingdoll
+The complete game can be downloaded at https://esimmons55.itch.io/themissingtoy
