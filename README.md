@@ -7,8 +7,10 @@ This is a GitHub repository for documenting my senior comps project and my proce
 
 This project also incorporates other websites outside of the game that must be visited as part of the ARG puzzles. These mini-sites will have their own repositories in order to keep the project as organized as possible.
 
-Here are the links to the other repositories:
+This is the links to the other repository:
 https://github.com/NSteckel/Nondosoft (hosted live at: https://nsteckel.github.io/Nondosoft/)
-(there will be one other here, not created yet)
+
+This is the link to an instagram account I created for one of the ARG puzzles:
+https://www.instagram.com/emmy_again_81/
 
 The complete game can be downloaded at https://esimmons55.itch.io/themissingdoll
