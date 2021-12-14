@@ -14,3 +14,6 @@ This is the link to an instagram account I created for one of the ARG puzzles:
 https://www.instagram.com/emmy_again_81/
 
 The complete game can be downloaded at https://esimmons55.itch.io/themissingtoy
+
+For more Info on how to reproduce this project, check out the pdf file below.
+[Reproduction Instructions.pdf](https://github.com/NSteckel/Senior-Comps/files/7708531/Reproduction.Instructions.pdf)
